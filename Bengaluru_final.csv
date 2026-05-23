@@ -1,0 +1,35 @@
+Day,PM 10,PM 2.5,AQI Value,Ozone,AQI Category,Primary Pollutant
+01-03-2025,58,24,67,52,Satisfactory,PM 10
+02-03-2025,74,50,74,22,Satisfactory,PM 10
+03-03-2025,62,27,74,56,Satisfactory,PM 10
+04-03-2025,115,87,100,47,Satisfactory,PM 10
+05-03-2025,63,28,110,57,Moderate,PM 10
+06-03-2025,146,129,121,305,Moderate,Ozone
+07-03-2025,67,31,130,61,Moderate,PM 10
+08-03-2025,69,33,119,63,Moderate,PM 10
+09-03-2025,136,111,115,52,Moderate,PM 10
+10-03-2025,64,28,84,60,Satisfactory,PM 10
+11-03-2025,62,27,75,58,Satisfactory,PM 10
+12-03-2025,57,38,60,26,Satisfactory,PM 10
+13-03-2025,63,28,67,59,Satisfactory,PM 10
+14-03-2025,65,29,81,61,Satisfactory,PM 10
+15-03-2025,94,64,97,166,Satisfactory,Ozone
+16-03-2025,70,34,91,66,Satisfactory,PM 10
+17-03-2025,69,33,105,65,Moderate,PM 10
+18-03-2025,77,52,90,66,Satisfactory,PM 10
+19-03-2025,65,29,81,61,Satisfactory,PM 10
+20-03-2025,63,27,75,59,Satisfactory,PM 10
+21-03-2025,66,44,97,71,Satisfactory,Ozone
+22-03-2025,64,28,81,60,Satisfactory,PM 10
+23-03-2025,66,30,79,62,Satisfactory,PM 10
+24-03-2025,68,32,84,64,Satisfactory,PM 10
+25-03-2025,90,63,80,181,Satisfactory,Ozone
+26-03-2025,67,31,94,63,Satisfactory,PM 10
+27-03-2025,65,29,91,61,Satisfactory,PM 10
+28-03-2025,64,28,94,60,Satisfactory,PM 10
+29-03-2025,111,82,109,89,Moderate,PM 10
+30-03-2025,61,25,115,57,Moderate,PM 10
+31-03-2025,85,57,113,203,Moderate,Ozone
+01/04/2025,75,34,163,51,Unhealthy,PM 10
+02/04/2025,73,33,174,50,Unhealthy,PM 10
+03/04/2025,72,32,187,49,Unhealthy,PM 10
